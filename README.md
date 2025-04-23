@@ -10,7 +10,7 @@ The Car Rental project is a comprehensive MERN stack web application tailored fo
 
 ## Live Link
 
-[Click here to visit Car Rental]((http://swami-car-rental.vercel.app))
+https://swami-car-rental.vercel.app/
 
 ## How to Use
 
